@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">身份证OCR识别</string>
+    <string name="hint_secret_id">SecretId（腾讯云访问密钥 ID）</string>
+    <string name="hint_secret_key">SecretKey（腾讯云访问密钥 Key）</string>
+    <string name="hint_region">Region（可选，例如 ap-beijing）</string>
+    <string name="btn_pick_image">选择身份证图片</string>
+    <string name="btn_recognize">开始识别</string>
+    <string name="label_card_side">证件面：</string>
+    <string name="side_auto">自动</string>
+    <string name="side_front">人像面(正面)</string>
+    <string name="side_back">国徽面(反面)</string>
+</resources>
